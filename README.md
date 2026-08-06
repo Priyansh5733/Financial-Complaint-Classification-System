@@ -1,4 +1,6 @@
 # 🏦 Customer Complaint Classification System using Machine Learning, Deep Learning & Transformers
+> **Note:** Due to GitHub's file size limitations, the dataset and trained model files are not included in this repository. The source code, notebooks, and project structure are provided to demonstrate the complete implementation of the Customer Complaint Classification System.
+
 
 An end-to-end **Natural Language Processing (NLP)** project that automatically classifies financial customer complaints into their respective product categories using **Machine Learning, Deep Learning, and Transformer-based models**.
 
